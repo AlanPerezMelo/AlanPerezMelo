@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Alan Perez Melo</h1>
 <h3 align="center">Desarrollador frontend</h3>
 
-<h3 align="left">Acerca De Mí:</h3>
+<h3 align="left">Acerca de Mí:</h3>
 <p align="left">
  Me he dedicado al desarrollo de sistemas aprendido varias tecnologías, de las cuales he participado en varios proyectos permitiéndome participar en diferentes faces como desarrollador, diseñando bases de datos como creando diferentes API y actualmente como desarrollador frontend.   
 </p>

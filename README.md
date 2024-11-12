@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, mi nombre es Alan Perez Melo</h1>
+<h1 align="center">👋 Hola mi nombre es Alan Perez Melo</h1>
 <h3 align="center">Desarrollador frontend</h3>
 
 <h3 align="left">Acerca de Mí:</h3>
